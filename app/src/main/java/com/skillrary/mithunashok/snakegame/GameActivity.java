@@ -21,8 +21,6 @@ import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-import com.example.krisnayana.snakegame.R;
-
 import java.io.IOException;
 import java.util.Random;
 

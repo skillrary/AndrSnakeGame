@@ -17,8 +17,6 @@ import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-import com.example.krisnayana.snakegame.R;
-
 public class MainActivity extends AppCompatActivity {
 
     Canvas canvas;

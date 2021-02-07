@@ -1,5 +1,5 @@
 /*
-package com.example.mithunashok.snakegame;
+package com.skillrary.mithunashok.snakegame;
 
 import android.app.Activity;
 import android.content.Context;
