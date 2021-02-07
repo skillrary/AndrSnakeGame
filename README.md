@@ -1,1 +1,1 @@
-# AndrSnakeGame
+# Android Snake Game
