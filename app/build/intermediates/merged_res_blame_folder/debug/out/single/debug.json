@@ -68,10 +68,6 @@
         "source": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
-        "source": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\src\\main\\res\\layout\\activity_game.xml"
-    },
-    {
         "merged": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
@@ -90,14 +86,6 @@
     {
         "merged": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tail_sprite_sheet.png.flat",
-        "source": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\src\\main\\res\\drawable\\tail_sprite_sheet.png"
-    },
-    {
-        "merged": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flower_sprite_sheet.png.flat",
-        "source": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\src\\main\\res\\drawable\\flower_sprite_sheet.png"
     },
     {
         "merged": "C:\\Users\\Mithun\\Documents\\Android Apps\\AndroidSnakeGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
