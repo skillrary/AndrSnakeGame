@@ -1,0 +1,8 @@
+com/skillrary/mithunashok/snakegame/MainActivity.java
+ com.skillrary.mithunashok.snakegame.MainActivity
+ com.skillrary.mithunashok.snakegame.MainActivity$SnakeAnimView
+com/skillrary/mithunashok/snakegame/GameActivity.java
+ com.skillrary.mithunashok.snakegame.GameActivity
+ com.skillrary.mithunashok.snakegame.GameActivity$SnakeView
+com/skillrary/mithunashok/snakegame/BuildConfig.java
+ com.skillrary.mithunashok.snakegame.BuildConfig
